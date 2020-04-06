@@ -1,0 +1,3 @@
+Learning rate = 0.001000
+batch Size = 10.000000
+test accuracy: 54.630000

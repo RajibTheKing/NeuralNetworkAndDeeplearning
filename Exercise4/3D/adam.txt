@@ -1,0 +1,32 @@
+Iteration 3...
+C:\Users\sazib\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.920160
+0.929580
+0.924580
+0.923500
+(0.924455 +/- 0.003378)
+
+validation accuracy (in brackets: mean +/- std):
+0.923100
+0.932000
+0.927600
+0.928200
+(0.927725 +/- 0.003159)
+
+test accuracy (in brackets: mean +/- std):
+0.918400
+0.925800
+0.916900
+0.919200
+(0.920075 +/- 0.003407)
+
+learning rates tested: [0.05]
+mean training accuracy: [0.924455]
+mean validation accuracy: [0.927725]
+mean test accuracy: [0.920075]
+
+
+optimal learning rate (determined on validation data): 0.050000
+PS C:\Users\sazib\OneDrive\Desktop\NeuralNetworkAndDeepLearning\Exercise4\files>

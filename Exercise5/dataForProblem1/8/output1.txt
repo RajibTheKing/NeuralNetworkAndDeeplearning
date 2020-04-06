@@ -1,0 +1,5 @@
+ python3 exercise1.py
+Learning rate = 0.050000
+batch Size = 5.000000
+test accuracy: 81.620000
+➜  files 

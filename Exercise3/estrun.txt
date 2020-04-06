@@ -1,0 +1,402 @@
+ 
+PS D:\SummerSemester-2019\NeuralNetworkAndDeepLearning\Exercise3\files> python .\exercise4a.py
+None
+
+
+learning on dataset iris
+
+Number of training samples: 105
+Number of test samples: 45
+training: constant learning-rate
+
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.952381
+Training set loss: 0.095458
+Test set score: 0.977778
+
+training: constant with momentum
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.980952
+Training set loss: 0.043713
+Test set score: 0.977778
+
+training: constant with Nesterov's momentum
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.980952
+Training set loss: 0.043353
+Test set score: 0.977778
+
+training: inv-scaling learning-rate
+
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.657143
+Training set loss: 0.941146
+Test set score: 0.555556
+
+training: inv-scaling with momentum
+
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.866667
+Training set loss: 0.459645
+Test set score: 0.777778
+
+training: inv-scaling with Nesterov's momentum
+
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.866667
+Training set loss: 0.460321
+Test set score: 0.777778
+
+training: adam
+number of network inputs: 4
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.990476
+Training set loss: 0.030960
+Test set score: 0.977778
+
+
+------------------------------------------------
+learning on dataset digits
+
+Number of training samples: 1257
+Number of test samples: 540
+training: constant learning-rate
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.943516
+Training set loss: 0.298351
+Test set score: 0.925926
+
+training: constant with momentum
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.985680
+Training set loss: 0.075761
+Test set score: 0.940741
+
+training: constant with Nesterov's momentum
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.996818
+Training set loss: 0.040823
+Test set score: 0.964815
+
+training: inv-scaling learning-rate
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.566428
+Training set loss: 1.936591
+Test set score: 0.494444
+
+training: inv-scaling with momentum
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.911695
+Training set loss: 0.388572
+Test set score: 0.888889
+
+training: inv-scaling with Nesterov's momentum
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.910103
+Training set loss: 0.446801
+Test set score: 0.890741
+
+training: adam
+
+number of network inputs: 64
+number of network outputs: 10
+number of network layers: 3
+Training set score: 0.993636
+Training set loss: 0.060121
+Test set score: 0.970370
+
+
+
+learning on dataset wine
+
+Number of training samples: 124
+Number of test samples: 54
+training: constant learning-rate
+
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 1.000000
+Training set loss: 0.042257
+Test set score: 1.000000
+
+training: constant with momentum
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 1.000000
+Training set loss: 0.009941
+Test set score: 1.000000
+
+training: constant with Nesterov's momentum
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 1.000000
+Training set loss: 0.010130
+Test set score: 1.000000
+
+training: inv-scaling learning-rate
+
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.661290
+Training set loss: 0.962229
+Test set score: 0.703704
+
+training: inv-scaling with momentum
+
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.967742
+Training set loss: 0.329851
+Test set score: 0.962963
+
+training: inv-scaling with Nesterov's momentum
+
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 0.967742
+Training set loss: 0.331924
+Test set score: 0.962963
+
+training: adam
+number of network inputs: 13
+number of network outputs: 3
+number of network layers: 3
+Training set score: 1.000000
+Training set loss: 0.004960
+Test set score: 1.000000
+
+
+
+learning on dataset diabetes
+
+Number of training samples: 309
+Number of test samples: 133
+training: constant learning-rate
+
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.103560
+Training set loss: 4.106060
+Test set score: 0.007519
+
+training: constant with momentum
+
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.993528
+Training set loss: 0.298405
+Test set score: 0.007519
+
+training: constant with Nesterov's momentum
+
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.987055
+Training set loss: 0.293299
+Test set score: 0.007519
+
+training: inv-scaling learning-rate
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.009709
+Training set loss: 5.213435
+Test set score: 0.000000
+
+training: inv-scaling with momentum
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.012945
+Training set loss: 5.132862
+Test set score: 0.007519
+
+training: inv-scaling with Nesterov's momentum
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.012945
+Training set loss: 5.132669
+Test set score: 0.007519
+
+training: adam
+
+number of network inputs: 10
+number of network outputs: 181
+number of network layers: 3
+Training set score: 0.993528
+Training set loss: 0.182448
+Test set score: 0.000000
+
+
+
+learning on dataset circles
+
+Number of training samples: 70
+Number of test samples: 30
+training: constant learning-rate
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.857143
+Training set loss: 0.586886
+Test set score: 0.800000
+
+training: constant with momentum
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.942857
+Training set loss: 0.101080
+Test set score: 0.866667
+
+training: constant with Nesterov's momentum
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.957143
+Training set loss: 0.104257
+Test set score: 0.866667
+
+training: inv-scaling learning-rate
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.514286
+Training set loss: 0.690762
+Test set score: 0.466667
+
+training: inv-scaling with momentum
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.628571
+Training set loss: 0.687026
+Test set score: 0.666667
+
+training: inv-scaling with Nesterov's momentum
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.528571
+Training set loss: 0.687378
+Test set score: 0.600000
+
+training: adam
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.957143
+Training set loss: 0.089005
+Test set score: 0.866667
+
+
+
+learning on dataset moons
+
+Number of training samples: 70
+Number of test samples: 30
+training: constant learning-rate
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.842857
+Training set loss: 0.344432
+Test set score: 0.866667
+
+training: constant with momentum
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.828571
+Training set loss: 0.339465
+Test set score: 0.900000
+
+training: constant with Nesterov's momentum
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.828571
+Training set loss: 0.338865
+Test set score: 0.900000
+
+training: inv-scaling learning-rate
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.485714
+Training set loss: 0.684865
+Test set score: 0.533333
+
+training: inv-scaling with momentum
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.814286
+Training set loss: 0.472911
+Test set score: 0.833333
+
+training: inv-scaling with Nesterov's momentum
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.814286
+Training set loss: 0.473382
+Test set score: 0.833333
+
+training: adam
+
+number of network inputs: 2
+number of network outputs: 1
+number of network layers: 3
+Training set score: 0.942857
+Training set loss: 0.150447
+Test set score: 0.933333
+
+PS D:\SummerSemester-2019\NeuralNetworkAndDeepLearning\Exercise3\files>

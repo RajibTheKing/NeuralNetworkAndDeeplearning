@@ -1,0 +1,56 @@
+python3 exercise3.py 
+MODIFYING LEARNING RATE
+learning rate = 0.001000
+Iteration 0...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.960020
+0.959900
+0.960300
+0.960860
+(0.960270 +/- 0.000370)
+
+validation accuracy (in brackets: mean +/- std):
+0.960300
+0.960300
+0.960100
+0.960300
+(0.960250 +/- 0.000087)
+
+test accuracy (in brackets: mean +/- std):
+0.956300
+0.955300
+0.957200
+0.957100
+(0.956475 +/- 0.000763)
+
+learning rates tested: [0.001]
+mean training accuracy: [0.96027]
+mean validation accuracy: [0.96025]
+mean test accuracy: [0.956475]
+
+
+optimal learning rate (determined on validation data): 0.001000
+
+
+
+
+
+
+
+
+
+
+
+
+

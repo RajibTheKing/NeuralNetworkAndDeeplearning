@@ -1,0 +1,3 @@
+learningRate = 0.5
+batchSize = 10
+test accuracy: 82.300000

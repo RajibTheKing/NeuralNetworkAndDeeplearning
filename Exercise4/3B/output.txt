@@ -1,0 +1,289 @@
+python.exe exercise3_solveB.py
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.874520
+0.887300
+0.852720
+0.885260
+(0.874950 +/- 0.013722)
+
+validation accuracy (in brackets: mean +/- std):
+0.873100
+0.881700
+0.846300
+0.876300
+(0.869350 +/- 0.013658)
+
+test accuracy (in brackets: mean +/- std):
+0.865300
+0.879100
+0.841800
+0.878000
+(0.866050 +/- 0.015014)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.977960
+0.971160
+0.975640
+0.969180
+(0.973485 +/- 0.003486)
+
+validation accuracy (in brackets: mean +/- std):
+0.951800
+0.950600
+0.951900
+0.951000
+(0.951325 +/- 0.000545)
+
+test accuracy (in brackets: mean +/- std):
+0.950500
+0.948100
+0.949800
+0.945800
+(0.948550 +/- 0.001812)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.999200
+0.998480
+0.999000
+0.998800
+(0.998870 +/- 0.000266)
+
+validation accuracy (in brackets: mean +/- std):
+0.970700
+0.971500
+0.969600
+0.973600
+(0.971350 +/- 0.001464)
+
+test accuracy (in brackets: mean +/- std):
+0.970800
+0.969000
+0.970900
+0.970000
+(0.970175 +/- 0.000763)
+
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.999940
+0.999940
+0.999960
+1.000000
+(0.999960 +/- 0.000024)
+
+validation accuracy (in brackets: mean +/- std):
+0.974300
+0.974900
+0.977500
+0.978000
+(0.976175 +/- 0.001599)
+
+test accuracy (in brackets: mean +/- std):
+0.974700
+0.973500
+0.974200
+0.975200
+(0.974400 +/- 0.000628)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.999980
+1.000000
+0.999960
+0.999980
+(0.999980 +/- 0.000014)
+
+validation accuracy (in brackets: mean +/- std):
+0.978900
+0.977700
+0.978300
+0.978700
+(0.978400 +/- 0.000458)
+
+test accuracy (in brackets: mean +/- std):
+0.977700
+0.978700
+0.978400
+0.977000
+(0.977950 +/- 0.000658)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+1.000000
+1.000000
+1.000000
+1.000000
+(1.000000 +/- 0.000000)
+
+validation accuracy (in brackets: mean +/- std):
+0.980000
+0.981400
+0.982300
+0.980900
+(0.981150 +/- 0.000832)
+
+test accuracy (in brackets: mean +/- std):
+0.980700
+0.979400
+0.979700
+0.981200
+(0.980250 +/- 0.000730)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+1.000000
+1.000000
+1.000000
+1.000000
+(1.000000 +/- 0.000000)
+
+validation accuracy (in brackets: mean +/- std):
+0.981400
+0.982600
+0.981400
+0.980900
+(0.981575 +/- 0.000626)
+
+test accuracy (in brackets: mean +/- std):
+0.982000
+0.982800
+0.980900
+0.979800
+(0.981375 +/- 0.001132)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 2...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 3...
+C:\Users\rajib\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+1.000000
+1.000000
+1.000000
+1.000000
+(1.000000 +/- 0.000000)
+
+validation accuracy (in brackets: mean +/- std):
+0.981800
+0.982800
+0.982500
+0.982100
+(0.982300 +/- 0.000381)
+
+test accuracy (in brackets: mean +/- std):
+0.982600
+0.981900
+0.981900
+0.980200
+(0.981650 +/- 0.000885)
+
+HiddenLayers tested: [5, 25, 50, 75, 100, 150, 200, 500]
+mean training accuracy: [0.87495  0.973485 0.99887  0.99996  0.99998  1.       1.       1.      ]
+mean validation accuracy: [0.86935  0.951325 0.97135  0.976175 0.9784   0.98115  0.981575 0.9823  ]
+mean test accuracy: [0.86605  0.94855  0.970175 0.9744   0.97795  0.98025  0.981375 0.98165 ]
+
+
+optimal learning rate (determined on validation data): 0.050000
+➜  files
+
+
+[5, 25, 50, 75, 100, 150, 200, 500]

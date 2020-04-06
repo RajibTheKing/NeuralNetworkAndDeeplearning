@@ -1,0 +1,91 @@
+➜  files python3 exercise3_solveC.py
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+1.000000
+0.999980
+(0.999990 +/- 0.000010)
+
+validation accuracy (in brackets: mean +/- std):
+0.977600
+0.979300
+(0.978450 +/- 0.000850)
+
+test accuracy (in brackets: mean +/- std):
+0.977700
+0.979500
+(0.978600 +/- 0.000900)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+1.000000
+1.000000
+(1.000000 +/- 0.000000)
+
+validation accuracy (in brackets: mean +/- std):
+0.979200
+0.979500
+(0.979350 +/- 0.000150)
+
+test accuracy (in brackets: mean +/- std):
+0.978800
+0.978900
+(0.978850 +/- 0.000050)
+
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+Iteration 1...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.995500
+0.994820
+(0.995160 +/- 0.000340)
+
+validation accuracy (in brackets: mean +/- std):
+0.971900
+0.973500
+(0.972700 +/- 0.000800)
+
+test accuracy (in brackets: mean +/- std):
+0.973300
+0.973100
+(0.973200 +/- 0.000100)
+
+Traceback (most recent call last):
+  File "exercise3_solveC.py", line 129, in <module>
+    ax.errorbar(hiddenLayerSizes, mean_train_accuracy, yerr=std_train_accuracy, label = 'training accuracy')
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/__init__.py", line 1810, in inner
+    return func(ax, *args, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/axes/_axes.py", line 3143, in errorbar
+    self.add_line(data_line)
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/axes/_base.py", line 1895, in add_line
+    self._update_line_limits(line)
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/axes/_base.py", line 1917, in _update_line_limits
+    path = line.get_path()
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/lines.py", line 945, in get_path
+    self.recache()
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/lines.py", line 640, in recache
+    x = _to_unmasked_float_array(xconv).ravel()
+  File "/usr/local/lib/python3.7/site-packages/matplotlib/cbook/__init__.py", line 1365, in _to_unmasked_float_array
+    return np.asarray(x, float)
+  File "/usr/local/lib/python3.7/site-packages/numpy/core/numeric.py", line 538, in asarray
+    return array(a, dtype, copy=False, order=order)
+ValueError: setting an array element with a sequence.
+➜  files 

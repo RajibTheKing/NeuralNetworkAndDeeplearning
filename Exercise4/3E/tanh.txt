@@ -1,0 +1,25 @@
+python3 exercise3_solveE.py
+MODIFYING LEARNING RATE
+learning rate = 0.050000
+Iteration 0...
+/usr/local/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (30) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+training accuracy (in brackets: mean +/- std):
+0.967280
+(0.967280 +/- 0.000000)
+
+validation accuracy (in brackets: mean +/- std):
+0.960200
+(0.960200 +/- 0.000000)
+
+test accuracy (in brackets: mean +/- std):
+0.955000
+(0.955000 +/- 0.000000)
+
+learning rates tested: [0.05]
+mean training accuracy: [0.96728]
+mean validation accuracy: [0.9602]
+mean test accuracy: [0.955]
+
+
+optimal learning rate (determined on validation data): 0.050000

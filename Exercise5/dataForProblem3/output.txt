@@ -1,0 +1,34 @@
+Using TensorFlow backend.
+x_train shape: (60000, 28, 28, 1)
+60000 train samples
+10000 test samples
+WARNING:tensorflow:From C:\Users\rajib\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From C:\Users\rajib\AppData\Local\Programs\Python\Python36\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+
+
+
+
+
+
+
+
+
+
+
+
+60000/60000 [==============================] - 152s 3ms/step - loss: 0.0869 - acc: 0.9739 - val_loss: 0.0434 - val_acc: 0.9845
+Epoch 3/6
+60000/60000 [==============================] - 153s 3ms/step - loss: 0.0655 - acc: 0.9807 - val_loss: 0.0338 - val_acc: 0.9884
+Epoch 4/6
+60000/60000 [==============================] - 154s 3ms/step - loss: 0.0523 - acc: 0.9844 - val_loss: 0.0329 - val_acc: 0.9883
+Epoch 5/6
+60000/60000 [==============================] - 155s 3ms/step - loss: 0.0458 - acc: 0.9861 - val_loss: 0.0287 - val_acc: 0.9906
+Epoch 6/6
+60000/60000 [==============================] - 153s 3ms/step - loss: 0.0418 - acc: 0.9873 - val_loss: 0.0293 - val_acc: 0.9903
+Number of parameters: 1199882
+Test loss: 0.029315848156595894
+Test accuracy: 0.9903
+dict_keys(['val_loss', 'val_acc', 'loss', 'acc'])
+➜  files
